@@ -21,3 +21,7 @@ Manutenção e Atualizações: Como seria o processo de manutenção e atualiza�
 Essa problematização aborda desafios interessantes que envolvem tanto o desenvolvimento web quanto o uso de Windows Forms, proporcionando uma oportunidade para explorar e aprimorar habilidades em ambas as áreas.
 <h5>/Chat GPT</h5>
 
+<h4>Dia 1:</h4>
+<p>Pra começar eu fui fazer alguns esquemas visuais de como funcionaria o banco de dados desse projeto. Fiz um esquema no draw io e outro no excel, já que o banco de dados relacional não passa de planilhas.</p>
+<p>Os esquemas estão localizados na pasta "planejamento visual"</p>
+
